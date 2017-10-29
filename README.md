@@ -18,10 +18,9 @@ Basic Statistics uses the Apache Ant build system. **Make sure that you have [An
 
 #### How to run Basic Statistics from the terminal:
 
-How to run (from Terminal):
+How to run Basic Statistics (from the terminal):
 
-1. After building the project (i.e., running `ant`), cd into the `bin`
-   directory and run: `java BasicStats`. The application's GUI should show up.
+1. After building the project (i.e., running `ant`), cd into the `bin` directory and run: `java BasicStats`. The application's GUI will show up.
 
 Program features:
 * Displays a set of entered numbers.
